@@ -28,12 +28,10 @@
 		"vite": "^3.1.0"
 	},
 	"dependencies": {
-		"@encapital/models": "^1.6.8",
 		"@fontsource/fira-mono": "^4.2.2",
 		"@lukeed/uuid": "^2.0.0",
 		"@reduxjs/toolkit": "^1.8.5",
 		"@staticdeploy/cli": "^0.15.5",
-		"@tradingview/charting_library": "^20.0.33",
 		"@windicss/animations": "^1.0.8",
 		"@zerodevx/svelte-toast": "^0.6.2",
 		"c8": "^7.11.3",
